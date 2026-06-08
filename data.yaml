@@ -1,0 +1,5 @@
+train: ./images/train/
+val: ./images/val/
+
+nc: 3
+names: ['凹边', '漏胶', '凸边']
